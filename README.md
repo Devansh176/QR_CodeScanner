@@ -47,7 +47,7 @@ A simple and effective **QR code scanner** built using **Flutter**. This app uti
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/qr_code_scanner_flutter.git
+git clone https://github.com/Devansh176/QR_CodeScanner.git
 cd qr_code_scanner_flutter
 
 # 2. Install dependencies
